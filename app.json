@@ -1,6 +1,6 @@
 {
-  "name": "ALPHA-MD",
-  "description": "Alpha is a multidevice WhatsApp bot built to make your WhatsApp enjoyable.",
+  "name": "NEUROTECH-MD",
+  "description": "NEUROTECH is a multidevice WhatsApp bot built to make your WhatsApp enjoyable.",
   "keywords": [
     "bot",
     "node",
@@ -8,7 +8,7 @@
     "whatsapp"
   ],
   "logo": "https://telegra.ph/file/b148f6ed21fa02ac5325b.jpg",
-  "repository": "https://github.com/Keithkeizzah/ALPHA-MD",
+  "repository": "https://github.com/ALLAMANO774/NEUROTECH-MD",
   "success_url": "/",
   "stack": "container",
   "env": {
@@ -25,7 +25,7 @@
     
     "ANTICALL_MSG": {
       "description": "Type your anticall message to always send when calls are declined. You can leave it blank",
-      "value": "This is Keith personal assistant kindly leave a message",
+      "value": "This is Allamano personal assistant kindly leave a message",
       "required": false
     },
     "BOT_NAME": {
