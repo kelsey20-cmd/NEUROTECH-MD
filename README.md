@@ -90,7 +90,7 @@ src="https://files.catbox.moe/grlqyj.png">
     <td align="center" width="50%">
       <h3>Fork Repository</h3>
       <p>Customize the bot for your needs</p>
-      <a href="https://github.com/keithkeizzah/ALPHA-MD/fork">
+      <a href="https://github.com/ALLAMANO/NEUROTECH-MD/fork">
         <img src="https://img.shields.io/badge/FORK-purple?style=for-the-badge" alt="Fork Button">
       </a>
     </td>
@@ -142,14 +142,4 @@ src="https://files.catbox.moe/grlqyj.png">
   <i>I don’t chase followers. I don’t care who deploys this. I code to make MY WhatsApp dope and MY life easier. Fixing scripts till they’re flawless? That’s my joy. Then? Netflix and zero fucks given."</i>
 </p>
 
-<div align="center">
-  <h3>Our Supporters</h3>
-  
-  <a href="https://github.com/Keithkeizzah/ALPHA-MD/stargazers">
-    <img src="http://reporoster.com/stars/dark/Keithkeizzah/ALPHA-MD" alt="Stargazers">
-  </a>
-  
-  <a href="https://github.com/Keithkeizzah/ALPHA-MD/network/members">
-    <img src="http://reporoster.com/forks/dark/Keithkeizzah/ALPHA-MD" alt="Forks">
-  </a>
-</div>
+
