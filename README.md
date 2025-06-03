@@ -105,7 +105,7 @@ src="https://files.catbox.moe/grlqyj.png">
   <tr>
     <td align="center" width="50%">
       <h3>Official Website</h3>
-      <p>Visit Keith's official site</p>
+      <p>Visit NEUROTECH official site</p>
       <a href="https://keith-site.vercel.app">
         <img src="https://img.shields.io/badge/Website-ff69b4?style=for-the-badge" alt="Official Website">
       </a>
@@ -120,7 +120,7 @@ src="https://files.catbox.moe/grlqyj.png">
   </tr>
   <tr>
     <td align="center" width="50%">
-      <h3>KEITH APIs</h3>
+      <h3>NEUROTECH APIs</h3>
       <p>APIs and integrations (updating)</p>
       <a href="https://apis-keith.vercel.app/">
         <img src="https://img.shields.io/badge/APIs-blue?style=for-the-badge" alt="KEITH APIs">
