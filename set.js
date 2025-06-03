@@ -13,9 +13,9 @@ const DATABASE_URL = process.env.DATABASE_URL === undefined
 
 
 const config = {
-    session: process.env.SESSION_ID || 'allamano',
+    session: process.env.SESSION_ID || 'Allamano',
     PREFIXE: process.env.PREFIX || ".",
-    OWNER_NAME: process.env.OWNER_NAME || "allamano",
+    OWNER_NAME: process.env.OWNER_NAME || "Allamano",
     NUMERO_OWNER: process.env.NUMERO_OWNER || "254785760507",     
     AUTO_DOWNLOAD_STATUS: process.env.AUTO_DOWNLOAD_STATUS || 'non',    
     URL: process.env.URL || "https://files.catbox.moe/grlqyj.png",                         
@@ -24,7 +24,7 @@ const config = {
     AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || 'viewed by neurotech',   
     AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || 'no',  
     ANTICALL_MSG: process.env.ANTICALL_MSG || 'call declined',             
-    GURL: process.env.GURL || "https://whatsapp.com/channel/0029VbAGDcU2f3ETH93NUd3o",
+    GURL: process.env.GURL || "https://www.whatsapp.com/channel/0029VbAGDcU2f3ETH93NUd3o",
     EVENTS: process.env.EVENTS || "yes",    
     BOT: process.env.BOT_NAME || 'NEUROTECH_MD',
     MODE: process.env.PUBLIC_MODE || "yes",              
