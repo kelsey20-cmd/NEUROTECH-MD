@@ -29,7 +29,7 @@
       "required": false
     },
     "BOT_NAME": {
-      "description": "You must give a name for your bot",
+      "description": "NEUROTECH-MD",
       "value": "",
       "required": false
     },
@@ -54,7 +54,7 @@
       "required": false
     },
     "URL": {
-      "description": "You must add your bot image URL",
+      "description": "",
       "value": "",
       "required": true
     },
