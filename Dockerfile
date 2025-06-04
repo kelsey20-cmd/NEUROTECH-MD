@@ -9,8 +9,8 @@ RUN apt-get update && \
   npm i pm2 -g && \
   rm -rf /var/lib/apt/lists/*
   
-RUN  git clone https://github.com/Allamano774/NEUROTECH-MD  /root/Alpha_BOt
-WORKDIR /root/Alpha_Bot/
+RUN  git clone https://github.com/Allamano774/NEUROTECH-MD  /root/NEUROTECH_BOt
+WORKDIR /root/NEUROTECH_BOT/
 
 
 
